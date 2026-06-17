@@ -1,20 +1,6 @@
-# flutter_application_12
+#Responsev
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Responsive-Design
-# Responsive-Design
-# Responsive-Design
+<img width="1366" height="768" alt="Screenshot from 2026-06-17 17-43-20" src="https://github.com/user-attachments/assets/df875aa5-073a-4675-8a8f-d91915c1da2d" />
+<img width="1366" height="768" alt="Screenshot from 2026-06-17 17-43-02" src="https://github.com/user-attachments/assets/4fdb9198-ff3b-462d-99c9-b95e32b4a9e8" />
+<img width="1366" height="768" alt="Screenshot from 2026-06-17 17-42-40" src="https://github.com/user-attachments/assets/d1ba7beb-65c0-4b2d-a4a6-2b2f926e8c49" />
+<img width="1366" height="768" alt="Screenshot from 2026-06-17 17-42-20" src="https://github.com/user-attachments/assets/fcf8522a-cde8-40ad-b337-73d0f154635a" />
